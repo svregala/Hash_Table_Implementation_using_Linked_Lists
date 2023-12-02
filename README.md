@@ -13,7 +13,7 @@ The following descriptions are as follows.
 
 - pa5list.cpp A test program for your list functions.
 
-- grades.cpp Test program for your Table class. It's a simple program to keep track of students and their scores in a class. The program takes one optional command-line argument, the size for the hash table -- if the argument is left off, the program uses the default hash size. When the program starts up it creates a hash table, immediately prints out the hashStats() for that empty table, and then should print the initial command prompt ("cmd> "). In the following example of program startup % is the Linux shell prompt and user input is shown in italics:
+- grades.cpp Test program for your Table class. It's a simple program to keep track of students and their scores in a class. The program takes one optional command-line argument, the size for the hash table -- if the argument is left off, the program uses the default hash size. When the program starts up it creates a hash table, immediately prints out the hashStats() for that empty table, and then should print the initial command prompt ("cmd> "). In the following example of program startup % is the Linux shell prompt and user input is shown:
 
 % grades 7
 
